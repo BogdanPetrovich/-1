@@ -1,6 +1,6 @@
-# Selenium Java Stack: Amazon Corretto (JDK) + Maven + IntelliJ IDEA + Selenium Java Client + ChromeDriver + Selenium Server Standalone
+# МАСТЕР НА ВСЁ РУК от А до Я
 
-<p align="center"><a href="  "><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="100" alt="Selenium"/></a></p>
+<p align="center"><a href="  "><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="100" alt="МАСТЕР НА ВСЁ РУК от А до Я"/></a></p>
 
 <p align="center"><b>Универсальный фреймворк для автоматизации работы с браузером<br>и проведения автоматизированного тестирования</b></p>
 
